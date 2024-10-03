@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "ciudad": "Beijing",
+        "pais": "China",
+        "imagen": "https://freefrontend.com/assets/img/tailwind-404-page-templates/404-page-not-found.png",
+        "url": "#"
+    },
+    {
+        "id": 2,
+        "ciudad": "Cairo",
+        "pais": "Egypt",
+        "imagen": "https://freefrontend.com/assets/img/tailwind-404-page-templates/404-page-not-found.png",
+        "url": "#"
+    },
+    {
+        "id": 3,
+        "ciudad": "London",
+        "pais": "United Kingdom",
+        "imagen": "https://freefrontend.com/assets/img/tailwind-404-page-templates/404-page-not-found.png",
+        "url": "#"
+    },
+    {
+        "id": 4,
+        "ciudad": "Mumbai",
+        "pais": "India",
+        "imagen": "https://freefrontend.com/assets/img/tailwind-404-page-templates/404-page-not-found.png",
+        "url": "#"
+    },
+    {
+        "id": 5,
+        "ciudad": "Moscow",
+        "pais": "Russia",
+        "imagen": "https://freefrontend.com/assets/img/tailwind-404-page-templates/404-page-not-found.png",
+        "url": "#"
+    },
+    {
+        "id": 6,
+        "ciudad": "New York",
+        "pais": "United States",
+        "imagen": "https://freefrontend.com/assets/img/tailwind-404-page-templates/404-page-not-found.png",
+        "url": "#"
+    },
+    {
+        "id": 7,
+        "ciudad": "Paris",
+        "pais": "France",
+        "imagen": "https://freefrontend.com/assets/img/tailwind-404-page-templates/404-page-not-found.png",
+        "url": "#"
+    },
+    {
+        "id": 8,
+        "ciudad": "Rio de Janeiro",
+        "pais": "Brazil",
+        "imagen": "https://freefrontend.com/assets/img/tailwind-404-page-templates/404-page-not-found.png",
+        "url": "#"
+    },
+    {
+        "id": 9,
+        "ciudad": "Rome",
+        "pais": "Italy",
+        "imagen": "https://freefrontend.com/assets/img/tailwind-404-page-templates/404-page-not-found.png",
+        "url": "#"
+    },
+    {
+        "id": 10,
+        "ciudad": "Sydney",
+        "pais": "Australia",
+        "imagen": "https://freefrontend.com/assets/img/tailwind-404-page-templates/404-page-not-found.png",
+        "url": "#"
+    },
+    {
+        "id": 11,
+        "ciudad": "Tokyo",
+        "pais": "Japan",
+        "imagen": "https://freefrontend.com/assets/img/tailwind-404-page-templates/404-page-not-found.png",
+        "url": "#"
+    },
+    {
+        "id": 12,
+        "ciudad": "Toronto",
+        "pais": "Canada",
+        "imagen": "https://freefrontend.com/assets/img/tailwind-404-page-templates/404-page-not-found.png",
+        "url": "#"
+    },
+    {
+        "id": 13,
+        "ciudad": "Berlin",
+        "pais": "Germany",
+        "imagen": "https://i.postimg.cc/8CshxYTk/Berlin.jpg",
+        "url": "#"
+    },
+    {
+        "id": 14,
+        "ciudad": "Seoul",
+        "pais": "South Korea",
+        "imagen": "https://i.postimg.cc/DwvD47PC/descarga-1.jpg",
+        "url": "#"
+    },
+    {
+        "id": 15,
+        "ciudad": "Mexico City",
+        "pais": "Mexico",
+        "imagen": "https://i.postimg.cc/sgGnh1Z4/Mexico.jpg",
+        "url": "#"
+    }
+]
